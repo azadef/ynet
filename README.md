@@ -1,5 +1,23 @@
 
-# $$\Upsilon\text{-Net}$$
+## Y-Net: A Spatiospectral Network for Retinal OCT Segmentation
+This is the official source code for the paper "$\Upsilon$-Net: A Spatiospectral Network for Retinal OCT Segmentation" accepted in MICCAI 2022.
+
+<a href="https://arxiv.org/pdf/2204.07613.pdf">Link to arXiv</a>
+
+Authors: <a href="https://www.in.tum.de/campar/members/azade-farshad/">A. Farshad*</a>, <a href="https://campar.in.tum.de/Main/YousefYeganeh">Y. Yeganeh*</a>, <a href="https://www.hopkinsmedicine.org/profiles/details/peter-gehlbach">P. Gehlbach</a>, <a href="https://www.in.tum.de/campar/members/cv-nassir-navab/nassir-navab/">N. Navab</a>
+
+
+## Citation
+If you find this code useful in your research then please cite:
+```
+@inproceedings{farshad2022_ynet,
+	    title={Υ-Net: A Spatiospectral Network for Retinal OCT Segmentation},
+	    author={Farshad, Azade and Yeganeh, Yousef and Gehlbach, Peter and Navab, Nassir},
+	    booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+	    year={2022},
+	    organization={Springer}
+	  }
+```
 
 ## Environment
 The requirements.txt file includes the required libraries for this project.
