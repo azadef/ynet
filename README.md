@@ -1,5 +1,6 @@
-
 ## Y-Net: A Spatiospectral Network for Retinal OCT Segmentation
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/u-net-a-spatiospectral-network-for-retinal/retinal-oct-layer-segmentation-on-duke-sd-oct)](https://paperswithcode.com/sota/retinal-oct-layer-segmentation-on-duke-sd-oct?p=u-net-a-spatiospectral-network-for-retinal)
+
 This is the official source code for the paper "$\Upsilon$-Net: A Spatiospectral Network for Retinal OCT Segmentation" accepted in MICCAI 2022.
 
 <a href="https://arxiv.org/pdf/2204.07613.pdf">Link to arXiv</a>
