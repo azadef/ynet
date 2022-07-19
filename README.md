@@ -27,7 +27,7 @@ The requirements.txt file includes the required libraries for this project.
 	source ./ynet/bin/activate
 	pip install -r requirements.txt
 
-## Data Preproccesing
+## Datasets Downloading and Preproccesing
 
 Downloads the dataset, creates the required data directories and preprocesses the data:
 
